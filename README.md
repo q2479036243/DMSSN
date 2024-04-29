@@ -4,6 +4,7 @@
 
 The paper "DMSSN: Distilled Mixed Spectral-Spatial Network for Hyperspectral Salient Object Detection" has been published and can be viewed at https://ieeexplore.ieee.org/abstract/document/10475351.
 
+![overall](https://github.com/q2479036243/DMSSN/assets/54230421/aa5707d3-211c-4da7-92be-d34e21698bf8)
 
 
 ## Dataset
