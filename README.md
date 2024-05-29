@@ -42,7 +42,7 @@ For more efficient data storage, the hyperspectral image data format is changed 
 ```python
 import h5py
 def dataload(path):
-    data = h5py.File(save_name, "r")['dataset'][:]
+    data = h5py.File(path, "r")['dataset'][:]
     return data
 ```
 
